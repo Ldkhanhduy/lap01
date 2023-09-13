@@ -1,1 +1,3 @@
-cuoc song khong con vui khi la wibu
+"cuoc song khong con vui khi la wibu"
+for i in range(3):
+    print("toi yeu anime")
